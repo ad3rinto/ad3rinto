@@ -1,4 +1,5 @@
 ### Hi there,
+![My Profile Picture](https://github.com/ad3rinto/ad3rinto.github.io/blob/master/image_ade-modified.png?raw=true)
 
 I am An IT Business Consultant with Systems Integration,, Mobile Communications, Telecommunications and Digital experience. I am co-founder and COO at [Callmehelp.com](http://www.callmehelp.com).
 I am passionate about Tech , e-health , Big & small data 😉 and **I** love to write code .
